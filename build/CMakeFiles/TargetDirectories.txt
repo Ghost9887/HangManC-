@@ -1,3 +1,0 @@
-/home/tucniak/data/programming/CPP/hangman/build/CMakeFiles/hangman.dir
-/home/tucniak/data/programming/CPP/hangman/build/CMakeFiles/edit_cache.dir
-/home/tucniak/data/programming/CPP/hangman/build/CMakeFiles/rebuild_cache.dir
